@@ -10,7 +10,7 @@ Especially when you are capturing footage, you will want to export individual cl
 
 ![Project Window](img/project-window.jpg)
 
-4. Right click the clip you want to export. Select the New Sequence From Clip option.
+4. Right click the clip you want to export. Do not select more than one clip at a time. Select the New Sequence From Clip option.
 
 ![New Sequence](img/new-sequence.jpg)
 
